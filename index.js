@@ -17,6 +17,6 @@ function inc(n) {
  return n += 1
 }
 
-funtion dec(n) {
-  return n
+function dec(n) {
+  return n -= 1
 }
